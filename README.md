@@ -18,3 +18,7 @@ Clone the repository.
 Install required dependencies.
 Run the training script with your desired parameters.
 Evaluate the trained model on test data or deploy it for real-time predictions.
+
+![Duygutanima](https://github.com/user-attachments/assets/9b57dc7d-153a-475e-ad06-6bde52caaa08)
+
+
